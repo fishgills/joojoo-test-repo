@@ -1,1 +1,3 @@
-This is cats
+This is cats.
+
+There are two.
